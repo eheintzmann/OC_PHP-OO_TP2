@@ -1,2 +1,5 @@
-# TP2_des_personnages_specialises
-TP : Des personnages spécialisés
+OpenClassrooms: Programmez en orienté objet en PHP
+==================================================
+[Théorie] Les bases de la POO
+-----------------------------
+TP2 : Des personnages spécialisés
